@@ -6,9 +6,9 @@ improvement. A selection of features is presented below.
 
 ### Teacher Student Positioning
 ![TeacherPosition (1)](https://github.com/vivienne-amm/ARPiano/assets/58234607/edd40210-3e72-4fbb-8838-607e9ae305e0)
-*(A) The teacher plays a melody that the student tries to replicate by observing the highlighting of the keys. (B) The teacher is placed next to the student and can provide feedback e.g. on hand positioning, fingering, and dynamics, while the student plays the piano.(C) The positioning opposite of each other facilitates conversation and allows for the use of non-verbal communication and gesture, e.g. to explain theoretical concepts.*
+*(A) The teacher plays a melody that the student tries to replicate by observing the highlighting of the keys. (B) The teacher is placed next to the student and can provide feedback e.g. on hand positioning, fingering, and dynamics, while the student plays the piano.(C) The positioning opposite of each other facilitates conversation and allows for the use of non-verbal communication and gestures, e.g. to explain theoretical concepts.*
 
-### Music Theory Hub for in between lessons
+### Music Theory Hub for in-between lessons
 The Music Theory Hub contains exercises on Notes and Keys, Intervals, Scales, and Chords. 
 
 ![Group 3](https://github.com/vivienne-amm/ARPiano/assets/58234607/0a9d04d2-4d78-4107-b8a5-3cb207afde54)

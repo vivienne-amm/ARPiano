@@ -12,7 +12,7 @@ improvement. A selection of features is presented below.
 The Music Theory Hub contains exercises on Notes and Keys, Intervals, Scales, and Chords. 
 
 ![Group 3](https://github.com/vivienne-amm/ARPiano/assets/58234607/0a9d04d2-4d78-4107-b8a5-3cb207afde54)
-*(A) Users can practice recognizing keys given by their note names. Optionally, the note names can be displayed directly over the virtual keyboard while practicing. Feedback is given by illuminating the keys green or red, by a sound effecr and by feedback on the screen. (B) Chord Exercise: The number of semitones between the notes of the chord is indicated on
+*(A) Users can practice recognizing keys given by their note names. Optionally, the note names can be displayed directly over the virtual keyboard while practicing. Feedback is given by illuminating the keys green or red, by a sound effect and by feedback on the screen. (B) Chord Exercise: The number of semitones between the notes of the chord is indicated on
 the keys to facilitate comprehension of how chord types follow specific patterns of semitone distance.*
 
 ### Interactive Theory Area
